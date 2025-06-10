@@ -1,4 +1,4 @@
-# 💼 Mathematical Modeling in Banking – List 3 Project (Summer Semester 2024/25)
+# 💼 Mathematical Modeling in Banking – Project
 
 This repository contains a project for the *Mathematical Modeling in Banking* course, focused on credit risk analytics and default modeling. The objective is to identify non-performing loans (NPLs) and calculate default rates (PD) using historical loan-level data.
 
