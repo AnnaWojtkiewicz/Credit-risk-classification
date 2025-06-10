@@ -63,10 +63,7 @@ A loan returns to performing status (**cure**) if:
    Classification of loans as defaulted or performing according to business rules.
 
 2. **Default Rate Calculation**  
-   Computation of observed default rate (DRₜ):
-   \[
-   DR_t = \frac{\text{Number of exposures that default within 12 months}}{\text{All exposures active at time } t}
-   \]
+   Computation of observed default rate (DRₜ)  
 
 3. **PD Modeling**  
    Segmentation of exposures into **risk groups** with assigned default probabilities over a 12-month horizon.
@@ -87,7 +84,7 @@ A loan returns to performing status (**cure**) if:
 
 ## 📂 Project Structure
 
-- `raport_3 (1).ipynb` – Data loading, default/cure logic, DR calculation, PDgroup modeling and visualizations
+- `raport_3.ipynb` – Data loading, default/cure logic, DR calculation, PDgroup modeling and visualizations
 
 
 
